@@ -17,6 +17,14 @@ Ich möchte mein Wissen über C# vertiefen.
 Alle begonnenen Projekte beenden.
 
 ## Planung 08.05.2026
-- [ ] Die Aufträge von Modul 122 LZ 1,2 beenden.
-- [ ] Die Aufträge von Modul 122 LZ 6+7 zu bearbeiten beginnen
+- [x] Die Aufträge von Modul 106 LZ 1,2 beenden.
+- [x] Die Aufträge von Modul 106 LZ 6+7 zu bearbeiten beginnen
 - [ ] Ein Thema für meine OBA im Modul 122 wählen und diese zu schreiben beginnen
+
+## 08.05.2026
+Ich konnte die Aufträge gut bearbeiten da es ziemlich leise war aber hatte keine Motivation weiterzuabreiten da die Aufträge welche ich nachholen musste nicht so schlimm waren und ich mich entschied das ich diese Aufträge am Dienstag dann ohne grosse schwierigkeiten lösen könnte.
+
+## 15.05.2026
+- [ ] Für das Projekt im Modul 122 ein Thema wählen
+- [ ] Am Projekt für Modul 122 arbeiten
+- [ ] Das Modding Manual für Conquest of Elysium 5 durchgehen und überdenken ob eine Mod dafür zu skripten für mich möglich wäre
