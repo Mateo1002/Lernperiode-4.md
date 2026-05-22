@@ -24,7 +24,16 @@ Alle begonnenen Projekte beenden.
 ## 08.05.2026
 Ich konnte die Aufträge gut bearbeiten da es ziemlich leise war aber hatte keine Motivation weiterzuabreiten da die Aufträge welche ich nachholen musste nicht so schlimm waren und ich mich entschied das ich diese Aufträge am Dienstag dann ohne grosse schwierigkeiten lösen könnte.
 
-## 15.05.2026
+## Planung 22.05.2026
 - [ ] Für das Projekt im Modul 122 ein Thema wählen
 - [ ] Am Projekt für Modul 122 arbeiten
-- [ ] Das Modding Manual für Conquest of Elysium 5 durchgehen und überdenken ob eine Mod dafür zu skripten für mich möglich wäre
+- [x] Das Modding Manual für Conquest of Elysium 5 durchgehen und überdenken ob eine Mod dafür zu skripten für mich möglich wäre
+
+## 22.05.2026
+Ich habe für das Projekt im Modul 122 nicht gearbeitet da mich das Modding zu sehr interessierte. Ich konnte mich allgemein gut konzentrieren da es nicht allzu laut war.
+
+## Planung 29.05.2026
+- [ ] Die Behaviour des Grandmasters testen
+- [ ] Das Spawnmonster des Grandmasters testen und rebalancen
+- [ ] Honse
+- [ ] An den Sprites des Pistoliers und Outriders arbeiten
