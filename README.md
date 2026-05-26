@@ -33,6 +33,7 @@ Ich konnte die Aufträge gut bearbeiten da es ziemlich leise war aber hatte kein
 Ich habe für das Projekt im Modul 122 nicht gearbeitet da mich das Modding zu sehr interessierte. Ich konnte mich allgemein gut konzentrieren da es nicht allzu laut war.
 
 ## Planung 29.05.2026
+- [ ] Den Auftrag 6406 im Modul 293 bearbeiten
 - [ ] Die Behaviour des Grandmasters testen
 - [ ] Das Spawnmonster des Grandmasters testen und rebalancen
 - [ ] Honse
