@@ -46,4 +46,4 @@ Ich konnte mich gut auf die hervorgesehenen Aufgaben konzentrieren war aber vom 
 - [ ] Funktionalität des War Wagons testen
 - [ ] Honse
 - [ ] Sprites für Purity Seals machen
-- [ ] Sprites fü War Machines machen
+- [ ] Sprites für War Machines machen
