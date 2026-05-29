@@ -34,6 +34,7 @@ Ich habe für das Projekt im Modul 122 nicht gearbeitet da mich das Modding zu s
 
 ## Planung 29.05.202
 - [ ] Die Behaviour des Grandmasters testen
+- [ ] Die Funktionalität der Grandmaster Immortality testen
 - [ ] Das Spawnmonster des Grandmasters testen und rebalancen
 - [ ] Honse
 - [ ] An den Sprites des Pistoliers und Outriders arbeiten
