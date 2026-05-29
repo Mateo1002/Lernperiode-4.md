@@ -32,9 +32,18 @@ Ich konnte die Aufträge gut bearbeiten da es ziemlich leise war aber hatte kein
 ## 22.05.2026
 Ich habe für das Projekt im Modul 122 nicht gearbeitet da mich das Modding zu sehr interessierte. Ich konnte mich allgemein gut konzentrieren da es nicht allzu laut war.
 
-## Planung 29.05.202
-- [ ] Die Behaviour des Grandmasters testen
-- [ ] Die Funktionalität der Grandmaster Immortality testen
-- [ ] Das Spawnmonster des Grandmasters testen und rebalancen
+## Planung 29.05.2026
+- [x] Die Behaviour des Grandmasters testen
+- [x] Die Funktionalität der Grandmaster Immortality testen
+- [x] Das Spawnmonster des Grandmasters testen und rebalancen
+- [x] Honse
+- [x] An den Sprites des Pistoliers und Outriders arbeiten
+
+## 29.05.2026
+Ich konnte mich gut auf die hervorgesehenen Aufgaben konzentrieren war aber vom vielen Lärm sehr abgelenkt. 
+
+## Planung 05.06.2026
+- [ ] Funktionalität des War Wagons testen
 - [ ] Honse
-- [ ] An den Sprites des Pistoliers und Outriders arbeiten
+- [ ] Sprites für Purity Seals machen
+- [ ] Sprites fü War Machines machen
