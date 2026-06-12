@@ -44,6 +44,16 @@ Ich konnte mich gut auf die hervorgesehenen Aufgaben konzentrieren war aber vom 
 
 ## Planung 05.06.2026
 - [ ] Funktionalität des War Wagons testen
-- [ ] Honse
-- [ ] Sprites für Purity Seals machen
+- [x] Honse
+- [x] Sprites für Purity Seals machen
 - [ ] Sprites für War Machines machen
+
+## 05.06.2026
+Ich konnte mich gut konzentrieren da es nicht allzu laut war. Ich arbeitete an der Haupt-Mod nicht allzu viel da ich Dinge an einer Test Mod ausprobierte.
+
+## Planung 12.06.2026
+- [ ] Funktionalität des War Wagons testen
+- [ ] Honse
+- [ ] Sprites für War Machines machen
+- [ ] MainCom Rituals definieren
+- [ ] Testen der MainCom Rituals vorbereiten
