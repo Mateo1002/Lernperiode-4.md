@@ -53,7 +53,16 @@ Ich konnte mich gut konzentrieren da es nicht allzu laut war. Ich arbeitete an d
 
 ## Planung 12.06.2026
 - [ ] Funktionalität des War Wagons testen
-- [ ] Honse
+- [x] Honse
 - [ ] Sprites für War Machines machen
-- [ ] MainCom Rituals definieren
+- [x] MainCom Rituals definieren
+- [ ] Testen der MainCom Rituals vorbereiten
+
+## 12.06.2026
+Ich konnte mich ziemlich gut konzentrieren da meine neuen Kopfhörer viel weniger Lärm durchlassen.
+
+## Planung 19.06.2026
+- [ ] Funktionalität des War Wagons testen
+- [ ] Honse
+- [ ] an den Sprites arbeiten
 - [ ] Testen der MainCom Rituals vorbereiten
