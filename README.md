@@ -66,3 +66,12 @@ Ich konnte mich ziemlich gut konzentrieren da meine neuen Kopfhörer viel wenige
 - [ ] Honse
 - [ ] an den Sprites arbeiten
 - [ ] Testen der MainCom Rituals vorbereiten
+
+## 19.06.2026
+Ich konnte nicht weiterarbeiten da Steam sich selbst löschte und ich dies wieder aufsetzen musste.
+
+## Planung 26.06.2026
+- [ ] Funktionalität des War Wagons testen
+- [ ] Honse
+- [ ] an den Sprites arbeiten
+- [ ] Testen der MainCom Rituals vorbereiten
