@@ -75,3 +75,6 @@ Ich konnte nicht weiterarbeiten da Steam sich selbst löschte und ich dies wiede
 - [ ] Honse
 - [ ] an den Sprites arbeiten
 - [ ] Testen der MainCom Rituals vorbereiten
+
+## Reflexion Lernperiode
+In dieser Lernperiode habe ich zu Beginn nicht wirklich viel gemancht sondern fast nur an den Modulen vor- oder nachgearbeitet. Ich werde voraussichtlich in der nächsten Lernperiode weiterhin and meiner Mod arbeiten. Ich habe während dem Lernatelier zwar gute Arbeit geleistet aber nicht wirklich Zielgerichtet gearbeitet.
